@@ -1,0 +1,13 @@
+name: test_env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - matplotlib
+  - pandas
+  - bokeh
+  - dask
+  - distributed
+  - dipy
+  - h5py

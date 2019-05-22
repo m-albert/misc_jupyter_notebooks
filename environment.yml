@@ -11,3 +11,8 @@ dependencies:
   - distributed
   - dipy
   - h5py
+  - graphviz
+  - python-graphviz
+  - pip
+  - pip:
+    - SimpleITK
